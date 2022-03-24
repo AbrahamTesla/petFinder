@@ -1,0 +1,15 @@
+{
+  "name": "petfinder",
+  "version": "1.0.0",
+  "description": "Finding a pet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pet",
+    "finder"
+  ],
+  "author": "Vincent Manlangit",
+  "license": "ISC"
+}
