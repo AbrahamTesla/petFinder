@@ -11,5 +11,8 @@
     "finder"
   ],
   "author": "Vincent Manlangit",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "fetch-jsonp": "^1.2.1"
+  }
 }
